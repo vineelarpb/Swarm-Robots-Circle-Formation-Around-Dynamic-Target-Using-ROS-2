@@ -6,7 +6,9 @@ New York University (NYU) || Tandon School of Engineering || Department of Mecha
 ## Abstract
 
 Collective behaviors observed in nature have sparked interest in the development of aerial swarm robotics, drawing inspiration from the coordinated movements observed in honeybee colonies, fish schools, and bird flocks. These robotic swarms, modeled after natural principles, have found diverse applications ranging from surveillance and agriculture to military operations. By emulating natural rules, they provide cost-effective solutions for tasks such as targeting, surveillance in disaster zones, and the establishment of emergency communication networks. This project presents a multi-robot system equipped with a formation control algorithm similar to Reynold's<sup>1</sup> designed to encircle a target point, particularly suitable for search and rescue operations. Through simulation in ROS 2<sup>2</sup> \& Python, the effectiveness of the multi-robot system in forming a circular arrangement around the target point is demonstrated, showcasing its potential utility in real-world scenarios.
-<br /> <br />
+<br />
+
+## More Info
 Please go through the project report from [documents](https://github.com/vineelarpb/Swarm-Robots-Circle-Formation-Around-Dynamic-Target-Using-ROS-2/tree/master/documents) folder for more info about this project and implementation part of it. <br />
 
 ## References
