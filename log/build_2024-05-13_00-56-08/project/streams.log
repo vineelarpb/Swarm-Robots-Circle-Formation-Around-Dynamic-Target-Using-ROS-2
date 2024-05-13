@@ -1,0 +1,22 @@
+[0.281s] Invoking command in '/home/avinash/ros2_ws/src/project': PYTHONPATH=/home/avinash/ros2_ws/build/project/prefix_override:/home/avinash/ros2_ws/install/project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/project build --build-base /home/avinash/ros2_ws/build/project/build install --record /home/avinash/ros2_ws/build/project/install.log --single-version-externally-managed install_data
+[0.390s] running egg_info
+[0.390s] writing ../../build/project/project.egg-info/PKG-INFO
+[0.390s] writing dependency_links to ../../build/project/project.egg-info/dependency_links.txt
+[0.390s] writing entry points to ../../build/project/project.egg-info/entry_points.txt
+[0.390s] writing requirements to ../../build/project/project.egg-info/requires.txt
+[0.390s] writing top-level names to ../../build/project/project.egg-info/top_level.txt
+[0.391s] reading manifest file '../../build/project/project.egg-info/SOURCES.txt'
+[0.392s] writing manifest file '../../build/project/project.egg-info/SOURCES.txt'
+[0.392s] running build
+[0.392s] running build_py
+[0.392s] running install
+[0.392s] running install_lib
+[0.393s] running install_data
+[0.393s] running install_egg_info
+[0.394s] removing '/home/avinash/ros2_ws/install/project/lib/python3.10/site-packages/project-0.0.0-py3.10.egg-info' (and everything under it)
+[0.394s] Copying ../../build/project/project.egg-info to /home/avinash/ros2_ws/install/project/lib/python3.10/site-packages/project-0.0.0-py3.10.egg-info
+[0.394s] running install_scripts
+[0.406s] Installing simulator script to /home/avinash/ros2_ws/install/project/lib/project
+[0.406s] Installing uav_simulator script to /home/avinash/ros2_ws/install/project/lib/project
+[0.406s] writing list of installed files to '/home/avinash/ros2_ws/build/project/install.log'
+[0.418s] Invoked command in '/home/avinash/ros2_ws/src/project' returned '0': PYTHONPATH=/home/avinash/ros2_ws/build/project/prefix_override:/home/avinash/ros2_ws/install/project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/project build --build-base /home/avinash/ros2_ws/build/project/build install --record /home/avinash/ros2_ws/build/project/install.log --single-version-externally-managed install_data

@@ -1,0 +1,4 @@
+[console_scripts]
+simulator = project.simulator:main
+uav_simulator = project.uav_simulator:main
+
