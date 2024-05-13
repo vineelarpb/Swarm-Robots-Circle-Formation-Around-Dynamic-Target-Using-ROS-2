@@ -1,8 +1,7 @@
 # Swarm-Robots-Circle-Formation-Around-Dynamic-Target-Using-ROS-2
 
 ROB-GY 6333 Networked Robotics Systems, Cooperative Control and Swarming || Final Term Project || Spring 2024 <br />
-New York University (NYU) Tandon School of Engineering <br />
-Department of Mechanical and Aerospace Engineering (MAE) <br /> <br />
+New York University (NYU) || Tandon School of Engineering || Department of Mechanical and Aerospace Engineering (MAE) <br /> <br />
 
 ## Abstract
 
